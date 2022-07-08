@@ -1,9 +1,8 @@
 ﻿# Magic Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+A mirror with a monitor on the back of it to show helpful information (like the time, weather, calander events, news articles, and more) to get you ready for your day. 
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| Ian Mooney | San Franscisco Univeristy High School | Engineering | 10th Grade |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
