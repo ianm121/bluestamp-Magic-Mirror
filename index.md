@@ -1,11 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
 # Magic Mirror
 A mirror with a monitor on the back of it to show helpful information (like the time, weather, calander events, news articles, and more) to get you ready for your day. 
 
 | Ian Mooney | San Franscisco Univeristy High School | Engineering | 10th Grade |
-|:--:|:--:|:--:|:--:|
 
 (COOL IMAGE HERE IG)
   
