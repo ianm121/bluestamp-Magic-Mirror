@@ -5,7 +5,7 @@ A mirror with a monitor on the back of it to show helpful information (like the 
 |:--:|:--:|:--:|:--:|
 | Ian Mooney | San Franscisco Univeristy High School | Engineering | 10th Grade 
 
-![Headstone image]
+![Headstone image](https://github.com/ianmooney1/bluestamp-Magic-Mirror/blob/gh-pages/Screen%20Shot%202022-07-14%20at%209.32.13%20AM.png)
 
 # First Milestone
 First Milestone Video:
