@@ -5,7 +5,7 @@ A mirror with a monitor on the back of it to show helpful information (like the 
 |:--:|:--:|:--:|:--:|
 | Ian Mooney | San Franscisco Univeristy High School | Engineering | 10th Grade 
 
-<img src="thing.png" width="832">
+<img src="12345.png" width="832">
 
 # First Milestone
 First Milestone Video:
