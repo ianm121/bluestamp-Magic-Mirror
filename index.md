@@ -14,7 +14,7 @@ I have just set up all of the basic components to help me get ready to modify my
 
 # Second Milestone
 Second Milestone Video:
-In this milestone video, I have just finished my base project with all the default modules. I got the display working and most of the modules are working the way they are intended to do. The one thing that I think I need to change is the fact that the compliments are way to big, and they are overlapping with the other modules. For my final milestone, I am planning on making everything look a lot cleaner, and maybe take out some of the components to keep the visuals very simple and easy to look at.
+In this milestone video, I just finished my base project with all the default modules. I got the display working and most of the modules are working the way they are intended to do. The one thing that I think I need to change is the fact that the compliments are way to big, and they are overlapping with the other modules. For my final milestone, I am planning on making everything look a lot cleaner, and maybe take out some of the components to keep the visuals very simple and easy to look at.
 <iframe width="832" height="478.86" src="https://www.youtube-nocookie.com/embed/5ns3Hgkc2UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Final Milestone
