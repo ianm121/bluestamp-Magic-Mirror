@@ -1,5 +1,5 @@
 # Magic Mirror
-A mirror with a monitor on the back of it to show helpful information (like the time, weather, calander events, news articles, and more) to get you ready for your day!
+A mirror with a monitor on the back of it to show helpful information (time, weather, calendar events, news articles, and more) to get you ready for your day!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -9,15 +9,15 @@ A mirror with a monitor on the back of it to show helpful information (like the 
 
 # Final Milestone
 Final Milestone Video: 
-In my final milestone video, I finished all of the customizations of my project and I have learned that checking the documentaion for an engineering project is a great way to get a deeper understanding of the work that went into the project, and learn how to modify it. When someone documents their work, others can follow behind with improvements and ideas that would otherwise not be possible. The documentation made it so much easier for me to change the original Magic Mirror project, and I am very grateful for their hard work.
+In my final milestone video, I finished all of the customizations of my project and I have learned that checking the documentation for an engineering project is a great way to get a deeper understanding of the work that went into the project and learn how to modify it. When someone documents their work, others can follow behind with improvements and ideas that would otherwise not be possible. The documentation made it so much easier for me to change the original Magic Mirror project, and I am very grateful for their hard work.
 <iframe width="832" height="478.86" src="https://www.youtube.com/embed/m0WJbs9DMS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 Second Milestone Video:
-In this milestone video, I just finished my base project with all the default modules. I got the display working and most of the modules are working the way they are intended to do. The one thing that I need to change is the fact that the compliments are way to big, and they are overlapping with the other modules. For my final milestone, I am planning on making everything look a lot cleaner, and maybe take out some of the components to keep the visuals very simple and easy to look at.
+In this milestone video, I just finished my base project with all the default modules. I got the display working and most of the modules are working the way they are intended to do. The one thing that I need to change is the fact that the compliments are way too big, and they are overlapping with the other modules. For my final milestone, I a plan on making everything look cleaner, and maybe take out some of the components to keep the visuals very simple and easy to look at.
 <iframe width="832" height="478.86" src="https://www.youtube-nocookie.com/embed/5ns3Hgkc2UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # First Milestone
 First Milestone Video:
-I have just set up all of the basic components to help me get ready to modify my project. I have imported the code from the original Magic Mirror website into Visual Studio Code (VS Code) (What I will use to modify the code) and (at least tried to) set up the monitor which will go on the back of the mirror and give the illusion that the mirror is a mini-display. The raspberrypi is all set up and has a memory card in it that will hold the modified code. I can accesss it from my computer using VS Code as long as it's plugged in.
+I have just set up all of the basic components to help me get ready to modify my project. I have imported the code from the original Magic Mirror website into Visual Studio Code (VS Code) (What I will use to modify the code) and (at least tried to) set up the monitor which will go on the back of the mirror and give the illusion that the mirror is a mini-display. The raspberrypi is all set up and has a memory card in it that will hold the modified code. I can access it from my computer using VS Code as long as it's plugged in.
 <iframe width="832" height="478.86" src="https://www.youtube-nocookie.com/embed/hI0jVcSuaf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
