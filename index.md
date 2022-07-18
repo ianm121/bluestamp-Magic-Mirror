@@ -28,3 +28,75 @@ I have just set up all of the basic components to help me get ready to modify my
 | **Raspberry Pi Model B 64 Bit** | **SunFounder 7 Inch HD TFT LCD Screen Monitor** | **5.9Ft Raspberry-Pi-4 Power Supply USB-C** | **UGREEN SD Card Reader USB 3.0** | **Micro Center Premium 64GB microSDXC Card** |
 |:--:|:--:|:--:|:--:|:--:|
 | $119.90 | $54.99 | $9.79 | $11.00 | $7.91 
+
+
+#Some Code Examples That I Changed
+
+Weather module:
+```js
+{
+	module: "weather",
+	position: "top_right",
+	header: 'Mill Valley, US',
+	config: {
+		weatherProvider: "openweathermap",
+		units: 'imperial',
+		tempUnits: "imperial",
+		windUnits: "imperial",
+		roundTemp: true,
+		timeFormat: '12',
+		type: 'current',
+		initialLoadDelay: 3000,
+		onlyTemp: false,
+		showFeelsLike: false,
+		showWindDirectionAsArrow: false,
+		showPeriod: true,
+		showSun: true,
+		colored: true,
+		fade: false,
+		showWindDirection: true,
+		showHumidity: true,
+		tableClass: 'small',
+		maxNumberOfDays: '9',
+		apiBase: 'https://api.openweathermap.org/data/',
+		weatherEndpoint: "/weather",
+		locationID: "5373121",
+		apiKey: "43de70266a95c9e974d55115a0097e6a"
+	}
+},
+```
+
+Compliments for when there is a thunderstorm:
+```js
+thunderstorm: [
+				"Thunder? Lightning? Where is this: Florida?!?",
+				"Apparently its thundering outside",
+				"Don't go in the pool right now!",
+				"Look outside and see the flashes of lighting!",
+				"Thunderbolts and lightning, very very frightning"
+			],
+```
+
+Some of the formatting:
+```js
+:root {
+  --color-text: #999;
+  --color-text-dimmed: #666;
+  --color-text-bright: #fff;
+  --color-background: rgb(6, 0, 9);
+
+  --font-primary: "Roboto Condensed";
+  --font-secondary: "Roboto";
+
+  --font-size: 18px;
+  --font-size-small: 0.75rem;
+
+  --gap-body-top: 20px;
+  --gap-body-right: 20px;
+  --gap-body-bottom: 60px;
+  --gap-body-left: 20px;
+
+  --gap-modules: 20px;
+}
+```
+
