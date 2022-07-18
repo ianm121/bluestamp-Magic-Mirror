@@ -1,13 +1,14 @@
 # Magic Mirror
 A mirror with a monitor on the back of it to show helpful information (time, weather, calendar events, news articles, and more) to get you ready for your day!
 
+![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Ian Mooney | San Franscisco Univeristy High School | Engineering | 10th Grade 
 
 <img src="12345.png" width="832">
 
-![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
 
 # Final Milestone
 Final Milestone Video: 
