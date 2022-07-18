@@ -30,7 +30,7 @@ I have just set up all of the basic components to help me get ready to modify my
 | $119.90 | $54.99 | $9.79 | $11.00 | $7.91 
 
 
-#Some Code Examples That I Changed
+# Some Code Examples That I Changed
 
 Weather module:
 ```js
@@ -66,16 +66,18 @@ Weather module:
 },
 ```
 
+
 Compliments for when there is a thunderstorm:
 ```js
 thunderstorm: [
-				"Thunder? Lightning? Where is this: Florida?!?",
-				"Apparently its thundering outside",
-				"Don't go in the pool right now!",
-				"Look outside and see the flashes of lighting!",
-				"Thunderbolts and lightning, very very frightning"
-			],
+		"Thunder? Lightning? Where is this: Florida?!?",
+		"Apparently it's thundering outside",
+		"Don't go in the pool right now!",
+		"Look outside and see the flashes of lighting!",
+		"Thunderbolts and lightning, very very frightning"
+		],
 ```
+
 
 Some of the formatting:
 ```css
