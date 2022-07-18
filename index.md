@@ -21,3 +21,10 @@ In this milestone video, I just finished my base project with all the default mo
 First Milestone Video:
 I have just set up all of the basic components to help me get ready to modify my project. I have imported the code from the original Magic Mirror website into Visual Studio Code (VS Code) (What I will use to modify the code) and (at least tried to) set up the monitor which will go on the back of the mirror and give the illusion that the mirror is a mini-display. The raspberrypi is all set up and has a memory card in it that will hold the modified code. I can access it from my computer using VS Code as long as it's plugged in.
 <iframe width="832" height="478.86" src="https://www.youtube-nocookie.com/embed/hI0jVcSuaf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Materials Used and Prices:
+
+| **Raspberry Pi Model B 64 Bit ** | **SunFounder 7 Inch HD TFT LCD Screen Monitor ** | **5.9Ft Raspberry-Pi-4 Power Supply USB-C** | **UGREEN SD Card Reader USB 3.0** | **Micro Center Premium 64GB microSDXC Card** |
+|:--:|:--:|:--:|:--:|:--:|
+| $119.90 | $54.99 | $9.79 | $11.00 | $7.91 
