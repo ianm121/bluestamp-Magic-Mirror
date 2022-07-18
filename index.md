@@ -25,6 +25,6 @@ I have just set up all of the basic components to help me get ready to modify my
 
 # Materials Used and Prices:
 
-| **Raspberry Pi Model B 64 Bit ** | **SunFounder 7 Inch HD TFT LCD Screen Monitor ** | **5.9Ft Raspberry-Pi-4 Power Supply USB-C** | **UGREEN SD Card Reader USB 3.0** | **Micro Center Premium 64GB microSDXC Card** |
+| **Raspberry Pi Model B 64 Bit** | **SunFounder 7 Inch HD TFT LCD Screen Monitor** | **5.9Ft Raspberry-Pi-4 Power Supply USB-C** | **UGREEN SD Card Reader USB 3.0** | **Micro Center Premium 64GB microSDXC Card** |
 |:--:|:--:|:--:|:--:|:--:|
 | $119.90 | $54.99 | $9.79 | $11.00 | $7.91 
