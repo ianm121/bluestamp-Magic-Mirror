@@ -66,7 +66,7 @@ Weather module:
 		locationID: "5373121",
 		apiKey: "43de70266a95c9e974d55115a0097e6a"
 	}
-},
+}
 ```
 
 
@@ -78,7 +78,7 @@ thunderstorm: [
 		"Don't go in the pool right now!",
 		"Look outside and see the flashes of lighting!",
 		"Thunderbolts and lightning, very very frightning"
-		],
+		]
 ```
 
 
