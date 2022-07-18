@@ -7,6 +7,8 @@ A mirror with a monitor on the back of it to show helpful information (time, wea
 
 <img src="12345.png" width="832">
 
+![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+
 # Final Milestone
 Final Milestone Video: 
 In my final milestone video, I finished all of the customizations of my project and I have learned that checking the documentation for an engineering project is a great way to get a deeper understanding of the work that went into the project and learn how to modify it. When someone documents their work, others can follow behind with improvements and ideas that would otherwise not be possible. The documentation made it so much easier for me to change the original Magic Mirror project, and I am very grateful for their hard work.
@@ -70,7 +72,7 @@ Weather module:
 Compliments for when there is a thunderstorm:
 ```js
 thunderstorm: [
-		"Thunder? Lightning? Where is this: Florida?!?",
+		"Thunder? Lightning? What is this: Florida?!?",
 		"Apparently it's thundering outside",
 		"Don't go in the pool right now!",
 		"Look outside and see the flashes of lighting!",
