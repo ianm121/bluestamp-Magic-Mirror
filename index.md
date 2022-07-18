@@ -78,7 +78,7 @@ thunderstorm: [
 ```
 
 Some of the formatting:
-```js
+```css
 :root {
   --color-text: #999;
   --color-text-dimmed: #666;
