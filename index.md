@@ -1,7 +1,7 @@
 # Magic Mirror
 A mirror with a monitor on the back of it to show helpful information (time, weather, calendar events, news articles, and more) to get you ready for your day!
 
-<img src="image.png">
+![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
