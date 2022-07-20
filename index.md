@@ -1,7 +1,7 @@
+![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
+
 # Magic Mirror
 A mirror with a monitor on the back of it to show helpful information (time, weather, calendar events, news articles, and more) to get you ready for your day!
-
-<img src="BlueStamp-Logo.svg">
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
