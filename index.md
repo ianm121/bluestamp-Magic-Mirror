@@ -5,7 +5,7 @@ A mirror with a monitor on the back of it to show helpful information (time, wea
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ian Mooney | San Franscisco Univeristy High School | Engineering | 10th Grade 
+| Ian M. | San Franscisco Univeristy High School | Engineering | Rising 10th Grader 
 
 <img src="12345.png" width="832">
 
