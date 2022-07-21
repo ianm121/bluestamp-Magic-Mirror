@@ -65,8 +65,8 @@ Weather module:
 		maxNumberOfDays: '9',
 		apiBase: 'https://api.openweathermap.org/data/',
 		weatherEndpoint: "/weather",
-		locationID: "5373121",
-		apiKey: "43de70266a95c9e974d55115a0097e6a"
+		locationID: "LOCATION_ID_GOES_HERE",
+		apiKey: "API_KEY_GOES_HERE"
 	}
 }
 ```
