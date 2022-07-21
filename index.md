@@ -9,7 +9,8 @@ A mirror with a monitor on the back of it to show helpful information (time, wea
 |:--:|:--:|:--:|:--:|
 | Ian M. | San Franscisco Univeristy High School | Engineering | Rising 10th Grader 
 
-<img src="12345.png" width="832">
+
+<img src="hello.png" width="832">
 
 
 # Final Milestone
