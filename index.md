@@ -3,7 +3,7 @@
 # Magic Mirror
 A mirror with a monitor on the back of it to show helpful information (time, weather, calendar events, news articles, and more) to get you ready for your day!
 
-<img src="IMG_1858.JPG">
+<img src="IMG_1858.JPG" width="416">
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
