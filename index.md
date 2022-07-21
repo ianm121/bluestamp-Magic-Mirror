@@ -33,7 +33,7 @@ I have just set up all of the basic components to help me get ready to modify my
 | $119.90 | $54.99 | $9.79 | $11.00 | $7.91 
 
 
-# Some Code Examples That I Changed
+# Code Examples
 
 Weather module:
 ```js
