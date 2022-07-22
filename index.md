@@ -43,7 +43,7 @@ Weather module:
 {
 	module: "weather",
 	position: "top_right",
-	header: 'Mill Valley, US',
+	header: 'San Francisco, US',
 	config: {
 		weatherProvider: "openweathermap",
 		units: 'imperial',
